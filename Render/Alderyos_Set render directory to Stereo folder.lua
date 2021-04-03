@@ -1,13 +1,11 @@
 --[[
  * ReaScript Name: Alderyos_Set render directory to Stereo folder
  * Description: Sets the output directory of the render to C:/Render/Stereo
- * Instructions: Run
- * Screenshot: 
+ * Instructions: Load and run the script
  * Author: Alderyos
- * Author URI: 
+ * Author URI: https://github.com/Alderyos
  * Repository: GitHub > Alderyos > REAPER-ReaScripts
- * Repository URI: 
- * File URI: 
+ * Repository URI: https://github.com/Alderyos/REAPER-ReaScripts
  * Licence: GPL v3
  * Forum Thread: 
  * Forum Thread URI: 
@@ -18,7 +16,7 @@
  
 --[[
  * Changelog:
- * v1.0 (2021-03-27)
+ * v1.0 (2021-04-03)
 	+ Initial Release
 --]]
 
