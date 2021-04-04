@@ -1,5 +1,5 @@
 --[[
- * ReaScript Name: Alderyos_Set render directory to Stereo folder
+ * ReaScript Name: Set render directory to Stereo folder
  * Description: Sets the output directory of the render to C:/Render/Stereo
  * Instructions: Load and run the script
  * Author: Alderyos
