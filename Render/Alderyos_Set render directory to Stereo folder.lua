@@ -3,7 +3,6 @@
  * Description: Sets the output directory of the render to C:/Render/Stereo
  * Instructions: Load and run the script
  * Author: Alderyos
- * Author URI: https://github.com/Alderyos
  * Repository: GitHub > Alderyos > REAPER-ReaScripts
  * Repository URI: https://github.com/Alderyos/REAPER-ReaScripts
  * Licence: GPL v3
