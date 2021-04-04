@@ -6,7 +6,7 @@
  * Repository: GitHub > Alderyos > REAPER-ReaScripts
  * Repository URI: https://github.com/Alderyos/REAPER-ReaScripts
  * Licence: GPL v3
- * Forum Thread: 
+ * Forum Thread: Advanced Region Rendering and Management
  * Forum Thread URI: 
  * REAPER: 6.25
  * Extensions: None
