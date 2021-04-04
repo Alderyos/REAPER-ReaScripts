@@ -7,7 +7,7 @@
  * Repository URI: https://github.com/Alderyos/REAPER-ReaScripts
  * Licence: GPL v3
  * Forum Thread: Advanced Region Rendering and Management
- * Forum Thread URI: 
+ * Forum Thread URI: https://forum.cockos.com/showthread.php?p=2427920#post2427920
  * REAPER: 6.25
  * Extensions: None
  * Version: 1.0
